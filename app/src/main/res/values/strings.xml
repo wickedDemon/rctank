@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RCTank</string>
+    <string name="text_field">TextField</string>
+    <string name="speed_title">Speed</string>
+</resources>
